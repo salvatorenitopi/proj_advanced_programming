@@ -1,3 +1,3 @@
 # README #
 
-Per la documentazione di questa repository consultare il file relazione.pdf
+A full guide is available in the file relazione.pdf (Italian only)
